@@ -19,3 +19,5 @@ I have not tested this with other keyboards, so you may need to tweak the baud r
 ## More info
 
 http://www.suppertime.co.uk/blogmywiki/2020/08/ps2-keyboard-microbit/
+
+![PS/2 keyboard and micro:bit](vlcsnap-2020-08-06-21h09m42s635.png)
